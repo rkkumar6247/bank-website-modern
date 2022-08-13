@@ -1,1 +1,2 @@
-# Moden Bank Website UI Using React JS and Tailwind CSS
+# Moden Bank Website
+UI Design Using React JS and Tailwind CSS
